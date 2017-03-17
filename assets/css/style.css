@@ -1,0 +1,32 @@
+.container-fluid {
+
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+
+.topline {
+
+	margin-bottom: 20px;
+
+}
+
+.gameCharacter {
+
+	margin-right: 10px;
+	margin-top: 10px;
+	
+}
+
+button {
+
+	background-color: #4682B4;
+	color: white;
+
+}
+
+.item {
+
+	float: left;
+	margin-right: 10px;
+}
