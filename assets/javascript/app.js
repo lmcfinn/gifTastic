@@ -51,7 +51,7 @@ $(document).ready(function(){
 		var person = $(this).data("GoT");
 		var apiKey = "dc6zaTOxFJmzC";
 		var numberOfImages = 10;
-		var queryURL = "http://api.giphy.com/v1/gifs/search?q=" + person + "&api_key=" + apiKey + "&limit=" + numberOfImages;
+		var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + person + "&api_key=" + apiKey + "&limit=" + numberOfImages;
 
 		
 
