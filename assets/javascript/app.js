@@ -66,7 +66,7 @@ $(document).ready(function(){
         	console.log(queryURL);
 
 
-        	for(var i = 0; i < 10; i++) {
+        	for(var i = 0; i < numberOfImages; i++) {
 
         		// Create a new div for each gif
         		var gifDiv = $("<div class='item'>");
